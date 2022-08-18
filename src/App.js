@@ -23,7 +23,7 @@ function App() {
           Build React Now
         </a>
       </header>
-      <Greet name="Az" anotherName="Brimatel"><p>This is a paragraph</p></Greet>
+      <Greet name="Az" anotherName="Brimaboo"><p>This is a paragraph</p></Greet>
       <Greet name = "Wale" anotherName = "Taiwo" ><button>Click here</button></Greet>
       <Greetings name = "Bayo"></Greetings>
       <Message/>
